@@ -1,4 +1,8 @@
-.App {
+.button {
   font-family: sans-serif;
   text-align: center;
+}
+.form {
+  font-family: sans-serif;
+  text-align: left;
 }
